@@ -10,4 +10,4 @@ Vedi [file di licenza](LICENSE)
 
 ### Specifica
 
-[Specifica](specifica/2022_2023.pdf)
+[Documento di specifica](specifica/2022_2023.pdf)
